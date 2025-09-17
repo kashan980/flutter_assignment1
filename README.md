@@ -1,16 +1,31 @@
-# biddingapp
+# Flutter Assignment 1
 
-A new Flutter project.
+This repository contains **Assignment 1** for Mobile App Development using Flutter and Dart.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Contents
+- **Flutter App** (`lib/main.dart`) – A simple bidding app UI.
+- **Task 2** (`task2.dart`) – Console program that calculates sum of even/odd numbers, and finds largest/smallest.
+- **Task 3** (`task3.dart`) – Console program that prints a pyramid pattern.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Assignment Outputs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Flutter App Output
+![Flutter App](screenshots/Bidding_Flutter_App_Screenshot.jpg)
+
+### Task 2 Output
+![Task 2 Case 1](screenshots/Task%202%20dart%20.png)  
+![Task 2 Case 2](screenshots/Task%202%20Dart%20Case%202%20.png)
+
+### Task 3 Output
+![Task 3](screenshots/Task3%20dart.png)
+
+---
+
+## 🛠️ How to Run
+- Clone the repository:
+  ```sh
+  git clone https://github.com/Kashan980/flutter_assignment1.git
